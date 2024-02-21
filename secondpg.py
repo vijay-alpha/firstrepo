@@ -8,6 +8,8 @@ arr = [12, 3, 4, 15]
 # all the elements in list,set and tuples and returns
 # the value
 ans = sum(arr)
+thi is a dummp prograam it wont work
+
  
 # display sum
 print('Sum of the array is ', ans)
