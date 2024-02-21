@@ -26,3 +26,5 @@ which are needd
 dubai
 kuruku sandhu dubai.
 amaa chuma
+
+final uh solikuran na 
