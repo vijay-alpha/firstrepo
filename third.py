@@ -25,3 +25,4 @@ which are needd
 
 dubai
 kuruku sandhu dubai.
+amaa chuma
