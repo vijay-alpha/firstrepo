@@ -13,3 +13,12 @@ thi is a dummp prograam it wont work
  
 # display sum
 print('Sum of the array is ', ans)
+hello
+iam 
+new
+to 
+git 
+hub
+please help me on tthis to 
+study 
+on daily basis 
